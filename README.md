@@ -1,24 +1,14 @@
-## Hi there 👋Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ram Wanjau
-==================================================================================================================================
-
-Computer Scientist
-------------------
-
-Still an ongoing student
+## Hi there 👋Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ram Wanjau ...and yes RAM
+Computer Scientist 🧑‍💻
+Still an ongoing student🧑‍🎓
 
 *   🌍  I'm based in Kenya
-
-<!--
-**RamW359/RamW359** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+*    🔭 I’m currently working on being the best version of myself 
+- 🌱 I’m currently learning languages such as java,js,HTML,so far..
+- 🤔 I’m looking for help with learning more about ICT as a whole and finding a job 🌚😅😅
+- 💬 Ask me about anything,for as long as I have the answer 
+- 📫 How to reach me: IG Lightchild359 Phone no.0714706471, email address ramwanjau@gmail.com
+- 😄 Pronouns: 🌚Kinda odd but "HE/HIM"
+- ⚡ Fun fact: You cannot hum while nodding your nose(If you tried that just say hi to me 😂)
+- 
 -->
